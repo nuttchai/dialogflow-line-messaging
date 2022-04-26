@@ -12,7 +12,7 @@ A LINE chatbot with Dialogflow to retrieve the data from the Google sheet, calcu
 <p float="left">
 <img src="./images/stock.png" width="350" alt="stock">
 <img src="./images/cost.png" width="350" alt="cost">
-</p><br>
+</p>
 
 ## Reference
 
