@@ -6,13 +6,13 @@ A LINE chatbot with Dialogflow to retrieve the data from the Google sheet, calcu
 
 - Google Sheet Mock Data
 
-<img src="./images/google-sheet.png" width="700" alt="google-sheet-data">
-<br><br>
+<img src="./images/google-sheet.png" width="700" alt="google-sheet-data"><br>
+
 - LINE Sampeng Messaging
 <p float="left">
 <img src="./images/stock.png" width="350" alt="stock">
 <img src="./images/cost.png" width="350" alt="cost">
-</p>
+</p><br>
 
 ## Reference
 
