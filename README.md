@@ -1,4 +1,18 @@
-# dialogflow-line-messaging
+# LINE Messaging using Dialogflow
+
+A LINE chatbot with Dialogflow to retrieve the data from the Google sheet, calculate the cost and visually report the user with a flex message in the chat
+
+## Example Usage
+
+- Google Sheet Mock Data
+
+<img src="./images/google-sheet.png" width="700" alt="google-sheet-data">
+<br><br>
+- LINE Sampeng Messaging
+<p float="left">
+<img src="./images/stock.png" width="350" alt="stock">
+<img src="./images/cost.png" width="350" alt="cost">
+</p>
 
 ## Reference
 
